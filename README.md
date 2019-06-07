@@ -1,4 +1,4 @@
-# ts-vue
+# ts-vue@1.0.0 2019-06-07
 
 ## Project setup
 ```
